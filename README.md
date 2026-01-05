@@ -1,5 +1,5 @@
 # Сладков Михаил Константинович
-## Python-разработчик
+## Аналитик данных
 
 ---
 
@@ -20,12 +20,7 @@
 #### Программирование
 * **Языки программирования:** Python
 * **Библиотеки:** РуyTorch, scikit-learn, numpy, matplotlib, pandas, openpyxl, SQLite
-* **Инструменты:** Git, Docker, CI/CD, PostgreSQL
-
-#### Инженерные навыки
-* **CAD-системы:** Kompas-3D, Autodesk Inventor, T-FLEX CAD, Siemens NX
-* **САЕ-системы:** ANSYS Workbench
-* **Вычислительные программы:** РТС Mathcad, Mathlab
+* **Инструменты:** Git, Docker, CI/CD, PostgreSQL, РТС Mathcad, Mathlab
 
 ---
 
